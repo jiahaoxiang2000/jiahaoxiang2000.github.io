@@ -1,9 +1,9 @@
 # jiahaoxiang2000.github.io
 
-home page for the github
+home page for the github build by the [jekyll](https://jekyllrb.com/)
 
 ## build jekyll
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
