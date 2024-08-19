@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog Motivation"
-categories: motivation blog writing
+categories: motivation blog 
 ---
 
 ### Motivation
