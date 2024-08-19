@@ -20,7 +20,7 @@ I'm a hardworking and responsible person, eager to learn new things and face new
 ## Hobby
 
 - **Reading:** I like reading technical books or posts.
-- **Running:** I run 5 km every day.
+- **Running:** I run 5 km one time.
 - **Music:** I enjoy listening to music, especially pop music.
 
 ## Contact
