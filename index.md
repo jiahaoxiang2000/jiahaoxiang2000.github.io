@@ -7,7 +7,7 @@ show_drafts: false
 ---
 # Computer Science
 
-There have some different sub field project on the computer science. 
+There have some different sub field project on the computer science.
 
 ## Game Development
 
