@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Blog Motivation"
-categories: motivation blog 
 ---
+
+Here is a brief introduction to the motivation behind starting this blog.
 
 ### Motivation
 
