@@ -3,7 +3,7 @@ layout: post
 title:  "Blog Motivation"
 ---
 
-Here is a brief introduction to the motivation behind starting this blog.
+Here is a brief introduction to the motivation behind starting this blog. 
 
 ### Motivation
 
@@ -13,3 +13,7 @@ Starting a blog has been on my mind for a long time, but procrastination always 
 
 1. **Completeness:** Projects discussed will be complete, easy to understand, and replicate.
 2. **Concise:** Blog posts will be kept short and to the point. If somebody insists on more details, they can find in the reference.
+
+### Features
+
+- Support the $$\LaTeX$$ by the `MathJax` plugin.

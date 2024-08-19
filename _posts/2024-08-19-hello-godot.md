@@ -15,7 +15,7 @@ The coding follows the Godot documentation on the [First 2D Game](https://docs.g
 
 ## Deploying the Game
 
-Initially, the plan was to distribute the game for Windows. However, automated deployment support in the Godot engine via GitHub Actions is limited. Therefore, the game is deployed to GitHub Pages. The game is available at [this link](https://jiahaoxiang2000.github.io/hello-godot/).
+Initially, the plan was to distribute the game for Windows. However, automated deployment support in the Godot engine via GitHub Actions is limited. Therefore, the game is deployed to GitHub Pages. The game is available at [this link](https://jiahaoxiang2000.github.io/hello-godot/). 
 
 ### References
 
